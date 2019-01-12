@@ -1,0 +1,6 @@
+create table dept ( deptno int ,dname varchar(18),db_source varchar(18) );
+
+insert into dept £¨deptno,dname,db_source) values£¨1£¬¡®ruanjianbu¡¯,'springcloud01');
+insert into dept £¨deptno,dname,db_source) values£¨2£¬¡®yanfabu¡¯,'springcloud02');
+insert into dept £¨deptno,dname,db_source) values£¨3£¬¡®xiaoshoubu¡¯,'springcloud03');
+insert into dept £¨deptno,dname,db_source) values£¨4£¬¡®gongguanbu¡¯,'springcloud04');
